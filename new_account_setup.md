@@ -1,0 +1,4 @@
+- read accounts from .accounts.json that don't have a key and secret 
+- add them an access key from here: https://us-east-1.console.aws.amazon.com/iam/home?region=eu-north-1#/security_credentials/access-key-wizard
+- setup the security access key in .accounts.json
+- add the account to the aws-vault cli with the name (if it doesn't already exist) 
